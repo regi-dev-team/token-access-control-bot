@@ -62,7 +62,7 @@ TEXT_MESSAGES = {
             "Я - твой личный проводник в клуб 100k REGI. \n\n"
             "<blockquote><b>Приватные чаты:</b>\n{chats}\n"
             "<b>Необходимые токены:</b>\n{tokens}</blockquote>\n\n"
-            "Жми на <b>Проверить наличие доступа</b>, чтобы узнать, есть ли пропуск :)\n\n"
+            "Жми на <b>Проверить наличие доступа</b>, чтобы узнать, есть ли у тебя допуск :)\n\n"
             "<b>Подключен к:</b> {wallet}"
         ),
         "select_language": (
@@ -190,9 +190,7 @@ TEXT_MESSAGES = {
         "main_menu": (
             f"{hide_link('http://regiton.net/wp-content/uploads/2024/04/Resistance-Girl-Logo.png')}"
             "🤖 <b>Welcome!</b>\n\n"
-            "I'm your personal guide in the world of private chats. "
-            "My main task is to provide you with access to our private chats, "
-            "based on your possession of the corresponding tokens.\n\n"
+            "I'm your personal guide to 100k REGI Club! \n\n"
             "<blockquote><b>Private Chats:</b>\n{chats}\n"
             "<b>Required Tokens:</b>\n{tokens}</blockquote>\n\n"
             "Click on <b>Check access availability</b> to find out if you'll be admitted!\n\n"
