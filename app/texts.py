@@ -57,7 +57,7 @@ TEXT_MESSAGES = {
         "outdated_text": "...",
 
         "main_menu": (
-            f"{hide_link('https://telegra.ph//file/db9c5c3febe75811e41af.jpg')}"
+            f"{hide_link('http://regiton.net/wp-content/uploads/2024/04/Resistance-Girl-Logo.png')}"
             "🤖 <b>Добро пожаловать!</b>\n\n"
             "Я - твой личный проводник в клуб 100k REGI. \n\n"
             "<blockquote><b>Приватные чаты:</b>\n{chats}\n"
@@ -71,7 +71,7 @@ TEXT_MESSAGES = {
             "Выбери язык:"
         ),
         "change_language": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('http://regiton.net/wp-content/uploads/2024/04/Resistance-Girl-Logo.png')}"
             "<b>Выбери язык:</b>"
         ),
         "deny_access": (
@@ -188,7 +188,7 @@ TEXT_MESSAGES = {
         "outdated_text": "...",
 
         "main_menu": (
-            f"{hide_link('https://telegra.ph//file/db9c5c3febe75811e41af.jpg')}"
+            f"{hide_link('http://regiton.net/wp-content/uploads/2024/04/Resistance-Girl-Logo.png')}"
             "🤖 <b>Welcome!</b>\n\n"
             "I'm your personal guide in the world of private chats. "
             "My main task is to provide you with access to our private chats, "
@@ -204,7 +204,7 @@ TEXT_MESSAGES = {
             "Choose a language:"
         ),
         "change_language": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('http://regiton.net/wp-content/uploads/2024/04/Resistance-Girl-Logo.png')}"
             "<b>Choose a language:</b>"
         ),
         "deny_access": (
